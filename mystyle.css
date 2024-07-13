@@ -5,3 +5,7 @@ h1{
 h2{
   color:#ff8c00;
 }
+
+th,td{
+  border:dashed thick black;
+}
